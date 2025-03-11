@@ -31,15 +31,20 @@ Upon running the script, users will be presented with a menu:
  *****************
 
 1 -> Adaugare contact
+
 2 -> Cautare contact dupa nume
+
 3 -> Stergere contact
+
 4 -> Afisare contacte
+
 5 -> Schimbare limba
+
 E -> Iesire din program
 
 Users can select options by entering the corresponding number.
 
-Contributions;
+Contributions:
 
 Contributions are welcome! If you’d like to improve this project, feel free to fork the repository and submit a pull request.
 
