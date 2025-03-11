@@ -22,7 +22,7 @@ cd phonebook-cli
 Run the program:
 python phonebook.py
 
-Usage;
+Usage:
 
 Upon running the script, users will be presented with a menu:
 
