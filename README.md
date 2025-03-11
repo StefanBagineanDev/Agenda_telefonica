@@ -42,6 +42,7 @@ Upon running the script, users will be presented with a menu:
 
 E -> Iesire din program
 
+
 Users can select options by entering the corresponding number.
 
 Contributions:
